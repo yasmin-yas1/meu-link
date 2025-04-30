@@ -1,0 +1,49 @@
+body{
+    background-color: #d393ab;
+    text-align:center;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.imagem-perfil{
+ width: 120px;
+ height:120px
+}
+
+h1{
+    font-family: 'Inter', sans-serif;
+    margin: 15px 0;
+    color:#79316f9f
+}
+
+a{
+    display: block;
+    margin: 26px;
+    background-color: #410639;
+    padding: 15px;
+    border-radius: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'inter', sans-serif;
+   
+}
+
+footer{
+    margin-top: 40px;
+    font-size:14px;
+    color:#410639
+}
+
+a:hover{
+    background-color: #410639;
+}
+ 
